@@ -7,12 +7,12 @@
 
 
 ## Login Page
-<img width="1440" alt="Screenshot 2024-04-28 at 5 48 59 PM" src="https://github.com/sonugtm-india/wanderlust/assets/96379972/df65dc28-6da8-42ed-8102-b8ae40f28880">
-
+<img width="1440" alt="Screenshot 2024-05-14 at 5 30 11 PM" src="https://github.com/sonugtm-india/wanderlust/assets/96379972/5984ceb8-a21c-41c3-8817-5db93297314a">
 
 
 ## Registration Page
-<img width="1440" alt="Screenshot 2024-04-28 at 5 49 05 PM" src="https://github.com/sonugtm-india/wanderlust/assets/96379972/f3b1e9ce-313d-4699-8c47-22736f5b12d8">
+<img width="1440" alt="Screenshot 2024-05-14 at 5 30 23 PM" src="https://github.com/sonugtm-india/wanderlust/assets/96379972/68a60939-162b-44cf-89e3-d4c0c6d0d959">
+
 
 
 
