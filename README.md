@@ -1,3 +1,4 @@
+### The Wanderlust Project is a comprehensive platform that caters to travelers and real estate enthusiasts. It aims to provide a seamless experience for those looking to travel, rent, buy, or sell flats.
 
 ## Home screen 
 <img width="1440" alt="Screenshot 2024-05-14 at 5 29 07 PM" src="https://github.com/sonugtm-india/wanderlust/assets/96379972/822d9672-32ee-4054-b39d-64758d641910">
